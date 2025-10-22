@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iZXNvWCERYU=",
+  "success": true,
+  "projectFilePath": "/Users/belal/DOT_NET/BusBooking/src/WebApi/WebApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/belal/.nuget/packages/microsoft.aspnetcore.openapi/9.0.10/microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "/Users/belal/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
